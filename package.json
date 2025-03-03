@@ -3,6 +3,7 @@
   "displayName": "teal-dark-theme",
   "description": "",
   "version": "0.0.1",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/willo0ow/teal-dark-vs-theme.git"
