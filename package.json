@@ -1,0 +1,21 @@
+{
+  "name": "teal-dark-theme",
+  "displayName": "teal-dark-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "teal-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teal-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
